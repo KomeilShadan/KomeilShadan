@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KomeilShadan an enthusiastic back-end developer looking for new opportunities, and a desire to learn more!
-- 👀 I’m interested in PHP/Laravel, Golang AND Dart/Flutter
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in PHP/Laravel, Golang AND Dart/Flutter (my main activity is currently focused on PHP/Laravel and due to NDA issues, here won't be any related     projects based on PHP/Laravel).
+- 🌱 I’m currently learning Golang.
 - 📫 How to reach me: https://www.linkedin.com/in/komeil-shadannejad/ OR email me kshadannejad@gmail.com
 
 <!---
